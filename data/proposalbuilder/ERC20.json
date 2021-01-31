@@ -1,0 +1,18 @@
+{
+    "id": "ERC-20",
+    "name": "ERC-20 Interface",
+    "description": "Ethereum network interface",
+    "functionNames": [{
+        "name": "sendEth",
+        "description": "Send ETH to any given address",
+        "stringArguments": 0,
+        "integerArguments": 1,
+        "addressArguments": 0
+    },{
+        "name": "swapEth",
+        "description": "Send ETH to any given address",
+        "stringArguments": 0,
+        "integerArguments": 1,
+        "addressArguments": 0
+    }]
+}
