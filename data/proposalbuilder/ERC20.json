@@ -5,12 +5,12 @@
     "functionNames": [{
         "name": "sendEth",
         "description": "Send ETH to any given address",
-        "stringArguments": 0,
-        "integerArguments": 1,
-        "addressArguments": 0
+        "arguments": [{
+            "type": "String"
+        }]
     },{
         "name": "swapEth",
-        "description": "Send ETH to any given address",
+        "description": "Swap ETH for any other token",
         "stringArguments": 0,
         "integerArguments": 1,
         "addressArguments": 0
